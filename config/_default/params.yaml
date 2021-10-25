@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
 font_size: L
 
@@ -14,46 +14,46 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: ''
-description: ''
+org_name: 'Michigan State University'
+description: 'Priyankar Datta is a PhD Candidate in Economics at Michigan State University'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: dattapri@msu.edu, priyankardatta1@gmail.com
+phone: 517 575 94 35
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 486 W Circle Drive
+  city: East Lansing
+  region: MI
+  postcode: '48824'
   country: United States
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+#coordinates:
+  #latitude: '37.4275'
+  #longitude: '-122.1697'
+#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#office_hours:
+  #- 'Monday 10:00 to 13:00'
+  #- 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: dattapriyankar
+    link: 'https://twitter.com/dattapriyankar'
+  #- icon: skype
+    #icon_pack: fab
+    #name: Skype Me
+    #link: 'skype:echo123?call'
+  #- icon: keybase
+    #icon_pack: fab
+    #name: Chat on Keybase
+    #link: 'https://keybase.io/'
+ # - icon: comments
+   # icon_pack: fas
+    #name: Discuss on Forum
+    #link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -62,8 +62,8 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: true
-  show_search: true
+  show_day_night: false
+  show_search: false
   highlight_active_link: true
 
 # Localization
@@ -95,14 +95,14 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 abstract_length: 135
@@ -123,14 +123,14 @@ breadcrumb:
 comments:
   provider: ''
   commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
+    post: false
+    book: false
+    project: false
+    publication: false
+    event: false
   disqus:
     shortname: ''
-    show_count: true
+    show_count: false
   commento:
     url: ''
 search:

@@ -4,21 +4,18 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
+  - name: CV
+    url: uploads/Datta_CV.pdf
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Resume
+    url: uploads/Datta_Resume.pdf
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Research
+    url: '#working-papers'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Teaching
+    url: '#teaching'
     weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
