@@ -24,20 +24,28 @@ TA: Fall 2021
 ### PIM 821: Managerial Economics 
 TA: Fall 2016 & 2021
 
-### EC 438: Urban Economics 
-TA: Fall 2018 & 2019, Spring 2019 & 2020
+### MBA 814: Applied Economics 
+TA: Spring 2017
+
+### EC 485: Economics of Education 
+TA: Spring 2017
 
 ### EC 499: Senior Seminar in Economics 
 TA: Fall 2018 & 2019, Spring 2019 & 2020
 
-### MBA 814: Applied Economics 
-TA: Spring 2017
+### EC 438: Urban Economics 
+TA: Fall 2018 & 2019, Spring 2019 & 2020
 
-### MBA 814: Applied Economics 
-TA: Spring 2017
+### EC 306: Comparative Economic Systems 
+TA: Fall 2016
+
+### EC 302: Intermediate Macroeconomics 
+TA: Fall 2017 
+
+### EC 202: Introductory Macreonomics 
+TA: Fall 2015
 
 ### EC 201: Introductory Micreonomics 
-TA: Fall 2018 
+TA: Fall 2018 & 2015, Spring 2016 & 2018
 
-### EC 201: Comparative Economic Systems 
-TA: Fall 2016
+

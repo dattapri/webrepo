@@ -51,7 +51,7 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "dattapri@msu.edu".
 - icon: envelope
-  icon_pack: fas
+  icon_pack: far
   link: '#contact' # For a direct email link, use "priyankardatta1@gmail.com".
 - icon: linkedin
   icon_pack: fab
@@ -68,6 +68,10 @@ social:
 - icon: cv
   icon_pack: ai
   link: uploads/Datta_CV.pdf
+- icon: twitter
+  icon_pack: fab
+  link: 'https://twitter.com/dattapriyankar'
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
