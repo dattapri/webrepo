@@ -1,5 +1,5 @@
 ---
-title: "Parent's divorce and the gender gap in children's long term labor market outcomes"
+title: "Parent's Divorce and the Gender Gap in Long Term Labor Market Outcomes"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
