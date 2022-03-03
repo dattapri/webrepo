@@ -83,4 +83,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Candidate in the Department of Economics at Michigan State University. I enjoy using quasi-experimental empirical methods to answer policy relevant questions in labor, public, and health economics. I am currently on the job market, and I will be available for interviews at the 2022 ASSA Annual Meeting.
+I am a Ph.D. Candidate in the Department of Economics at Michigan State University. I enjoy using quasi-experimental empirical methods to answer policy relevant questions in labor, public, and health economics. I am currently on the job market and am available for interviews
