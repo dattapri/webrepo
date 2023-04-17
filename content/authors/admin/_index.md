@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Economics
+role: Senior Data Analyst 
 
 # Organizations/Affiliations
 organizations:
-- name: Michigan State University
+- name: Walmart
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Priyankar Datta is a doctoral candidate in economics at Michigan State University. Priyankar's research interests are in Labor, Public, and Health economics. 
+bio: Priyankar is a Senior Data Analyst in the Research team in Walmart's global people. Priyankar's research interests are in Labor, Public, and Health economics. 
 
 interests:
 - Labor economics
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Michigan State University
-    year: 2022 (Expected)
+    year: 2022 
   - course: MA in Economics
     institution:  Michigan State University
     year: 2016
@@ -83,4 +83,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Candidate in the Department of Economics at Michigan State University. I enjoy using quasi-experimental empirical methods to answer policy relevant questions in labor, public, and health economics. I am currently on the job market and am available for interviews
+I am a Senior Data Analyst in the research team in Walmart's global people. I use modern econometric techniques to provide insights to the human resources organization on issues related to compensation and attrition.
