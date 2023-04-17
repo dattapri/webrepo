@@ -47,11 +47,11 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-dattapri@msu.edu" or "#contact" for contact widget.
 social:
+#- icon: envelope
+  #icon_pack: fas
+  #link: '#contact'  # For a direct email link, use "dattapri@msu.edu".
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "dattapri@msu.edu".
-- icon: envelope
-  icon_pack: far
   link: '#contact' # For a direct email link, use "priyankardatta1@gmail.com".
 - icon: linkedin
   icon_pack: fab
@@ -59,15 +59,15 @@ social:
 #- icon: google-scholar
   #icon_pack: ai
   #link: https://scholar.google.com/citations?user=GOOGLE-SCHOLAR-ID
-- icon: file-alt
-  icon_pack: fas
-  link: uploads/Datta_Resume.pdf
+#- icon: file-alt
+  #icon_pack: fas
+  #link: uploads/Datta_Resume.pdf
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/Datta_CV.pdf
+  link: uploads/Datta_Resume.pdf
 - icon: twitter
   icon_pack: fab
   link: 'https://twitter.com/dattapriyankar'
