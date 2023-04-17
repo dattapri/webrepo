@@ -27,7 +27,7 @@ summary: This paper looks at the impact of parent’s divorce on the gender gap 
 #featured: false
 
 links:
-url_pdf: uploads/Datta_WP1.pdf
+#url_pdf: uploads/Datta_WP1.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
