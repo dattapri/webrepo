@@ -29,7 +29,7 @@ featured: true
 
 links:
 
-url_pdf: uploads/Datta_JMP.pdf
+#url_pdf: uploads/Datta_JMP.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
